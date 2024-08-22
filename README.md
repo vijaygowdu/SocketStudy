@@ -86,9 +86,9 @@ while True:
 ```
 ## Output:
 ## Client:
-![image](https://github.com/user-attachments/assets/4d81070c-723a-4379-92d4-5fec5eb58947)
+![1a client](https://github.com/user-attachments/assets/671522b8-5ed0-4faa-8312-04334c1d1fb1)
 ## Server:
-![image](https://github.com/user-attachments/assets/d93ff05d-ae36-449f-845f-462dd37e522a)
+![1a server](https://github.com/user-attachments/assets/0980a366-b427-478e-b438-6455b63a6681)
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
